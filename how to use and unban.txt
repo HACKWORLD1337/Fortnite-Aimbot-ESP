@@ -1,0 +1,18 @@
+Make sure to have Virus Protection off.
+
+Works vinver on 2004 and 1909 (windows key + r) type winver to fing your version
+
+hot to use
+1.Run tracer.exe
+2.Run NULLspoofer.exe
+3.Sign up a epic games account then close epic games
+4. Run EAC.exe
+5. Open the cheat file and run prflog.bat
+5. Open steam and add epic games and run epic games
+6.in the fortnite lobby run smap.bat
+
+Hot to Unban
+
+run apple cleaner
+then run nullspoofer
+make new account
